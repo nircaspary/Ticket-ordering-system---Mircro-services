@@ -19,7 +19,7 @@
   "author": "Nir caspary",
   "license": "ISC",
   "dependencies": {
-    "@ticketing-nir/common": "^1.0.12",
+    "@ticketing-nir/common": "^1.0.23",
     "@types/cookie-session": "^2.0.44",
     "@types/express": "^4.17.17",
     "@types/jsonwebtoken": "^9.0.2",
